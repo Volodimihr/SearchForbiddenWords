@@ -1,0 +1,63 @@
+Log_Вт, 09.08.2022 18:25:18
+Root searching directory: E:\ItStep\HW\Exam_SearchForbiddenWords_Karvatyuk\bin\Debug
+Text file of forbidden words: E:\ItStep\HW\Exam_SearchForbiddenWords_Karvatyuk\text.txt
+
+Frequently occurring word:  = 0
+
+ - "Hello": not found!
+
+-------------================-------------
+
+ - "World!": not found!
+
+-------------================-------------
+
+ - "Some": not found!
+
+-------------================-------------
+
+ - "Text":
+	file: E:\ItStep\HW\Exam_SearchForbiddenWords_Karvatyuk\bin\Debug\Document.txt
+	founded: 2
+	indexes: 50 148
+
+-------------================-------------
+
+ - "Again": not found!
+
+-------------================-------------
+
+ - "text":
+	file: E:\ItStep\HW\Exam_SearchForbiddenWords_Karvatyuk\bin\Debug\Document.txt
+	founded: 2
+	indexes: 50 148
+
+-------------================-------------
+
+ - "Lorem":
+	file: E:\ItStep\HW\Exam_SearchForbiddenWords_Karvatyuk\bin\Debug\Document.txt
+	founded: 5
+	indexes: 8 22 97 468 584
+
+-------------================-------------
+
+ - "Bad": not found!
+
+-------------================-------------
+
+ - "word": not found!
+
+-------------================-------------
+
+ - "VeryBadWord": not found!
+
+-------------================-------------
+
+ - "GoodWord": not found!
+
+-------------================-------------
+
+ - "UnknownWord": not found!
+
+-------------================-------------
+
